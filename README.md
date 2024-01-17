@@ -1,5 +1,5 @@
 # Attacktive-Hours
-Reading the active hours of a local windows computer though registry keys.
+Reading the active hours of a local windows computer through registry keys.
 
 # DISCLAIMER
 - **Please make sure you have mingw installed on your system if not
